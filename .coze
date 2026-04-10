@@ -1,6 +1,6 @@
 [skill]
-name=""
-description=""
-skill_package=""
-project_name=""
-project_description=""
+  skill_package = "learning-system.skill"
+  name = "learning-system"
+  description = "交互式学习系统，通过AI生成文章、提问、分析反馈的迭代闭环，帮助用户深入掌握任意知识；当用户需要系统性学习某个课题、概念或书籍时使用"
+  project_name = "技能工作流"
+  project_description = "AI辅助迭代学习系统"
